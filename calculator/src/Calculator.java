@@ -7,7 +7,8 @@ public class Calculator {
     public int subtract (int a, int b) {
         return a - b;
     }
-    // multiply -> ivan
+    // multiply -> ivan ta feito
+    
     public int multiply(int firstNumber, int secondNumber) {
         return firstNumber * secondNumber;
     }
