@@ -9,9 +9,9 @@ public class Main {
         int multiply = calculator.multiply(2,3);
         float divide = calculator.divide( 6,3);
 
-        System.out.println(sum) //should print 3
-        System.out.println(subtract) //should print 1
-        System.out.println(multiply) //should print 6
+        System.out.println(sum); //should print 3
+        System.out.println(subtract); //should print 1
+        System.out.println(multiply); //should print 6
         System.out.println(divide); //should print 2
     }
 }
