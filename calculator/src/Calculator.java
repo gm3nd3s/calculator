@@ -1,5 +1,8 @@
 public class Calculator {
     // sum -> filipe
+    public int sum(int a, int b){
+        return a + b;
+    }
     // subtract -> ana
     // multiply -> ivan
     // divide -> gonçalo
