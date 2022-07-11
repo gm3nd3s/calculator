@@ -4,6 +4,9 @@ public class Calculator {
         return a + b;
     }
     // subtract -> ana
+    public int subtract (int a, int b) {
+        return a - b;
+    }
     // multiply -> ivan
     public int multiply(int firstNumber, int secondNumber) {
         return firstNumber * secondNumber;
